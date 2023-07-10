@@ -27,7 +27,7 @@ THEN I am again presented with current and future conditions for that city
 
 <STRONG> DEPLOYMENT </strong>
 
-![Image](Screenshot.png)
+![Image](weather-dashboard.png)
 
 <STRONG> LINK </strong>
 
@@ -35,4 +35,7 @@ THEN I am again presented with current and future conditions for that city
 
 <STRONG> REFERENCES </strong>
 
-* Utilized stack overflow and youtube tutorials
+* This entire project was built using code provided by Northwestern University's Full-stack Development Coding Bootcamp TAs from the following repository:
+https://nu.bootcampcontent.com/NU-Coding-Bootcamp/NU-VIRT-FSF-PT-01-2023-U-LOLC/-/tree/main/00-homework-solutions/06-Main
+
+With their express permission, I used the code provided as a template which I then modified, primarily through the renaming of elements, addition/modification of comments, and rearrangement of variables.
